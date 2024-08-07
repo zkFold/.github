@@ -1,1 +1,1 @@
-# .github
+# zkFold: Scalable Distributed Ledger Technology
