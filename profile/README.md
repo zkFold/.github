@@ -2,10 +2,10 @@
 
 ## About
 
-zkFold is a company developing open-source solutions for scaling distributed ledgers. Our key products include
-- zkFold Symbolic: A framework for building zero-knowledge applications;
-- zkFold Rollup: A layer-2 scaling solution that utilizes the underlying L1 blockchain as data availability layer;
-- zkFold DLT: A layer-2 sidechain solution that has its own consensus mechanism and data availability layer.
+zkFold is a company developing open-source solutions for scaling distributed ledgers. Our key products include:
+- **zkFold Symbolic**: A framework for building zero-knowledge applications;
+- **zkFold Rollup**: A layer-2 scaling solution that utilizes the underlying L1 blockchain as data availability layer;
+- **zkFold DLT**: A layer-2 sidechain solution that has its own consensus mechanism and data availability layer.
 
 ## Repositories
 
