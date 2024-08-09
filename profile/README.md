@@ -13,7 +13,7 @@ Description of public repositories maintained by zkFold.
 
 - [user-docs](https://github.com/zkFold/user-docs) contains user documentation for zkFold products.
 
-- [zkFold-base](https://github.com/zkFold/zkfold-base) contains zkFold's core type definitions and the zkFold Symbolic framework.
+- [zkFold-base](https://github.com/zkFold/zkfold-base) contains the zkFold Symbolic framework that is at the core of zkFold products.
 
 - [zkFold-cardano](https://github.com/zkFold/zkfold-cardano) is an integration of zkFold Symbolic smart contracts with the Cardano blockchain.
 
