@@ -11,8 +11,6 @@ zkFold is a company developing open-source solutions for scaling distributed led
 
 Description of public repositories maintained by zkFold.
 
-- [user-docs](https://github.com/zkFold/user-docs) contains user documentation for zkFold products.
-
 - [zkFold-base](https://github.com/zkFold/zkfold-base) contains the zkFold Symbolic framework that is at the core of zkFold products.
 
 - [zkFold-cardano](https://github.com/zkFold/zkfold-cardano) is an integration of zkFold Symbolic smart contracts with the Cardano blockchain.
@@ -24,3 +22,5 @@ Description of public repositories maintained by zkFold.
 - [zkFold-prover-api](https://github.com/zkFold/zkfold-prover-api) is an API server for the zkFold provers.
 
 - [p2p-onramp](https://github.com/zkFold/p2p-onramp) is a peer-to-peer fiat-to-crypto onramp application on Cardano that is built using zkFold Symbolic.
+
+- [user-docs](https://github.com/zkFold/user-docs) contains user documentation for zkFold products.
