@@ -23,3 +23,7 @@ Description of public repositories maintained by zkFold.
 - [smart-contract-wallet](https://github.com/zkFold/smart-contract-wallet) contains an implementation of a Cardano wallet backend based on ZK smart contracts.
 
 - [p2p-onramp](https://github.com/zkFold/p2p-onramp) is a peer-to-peer fiat-to-crypto onramp application on Cardano that is built using zkFold Symbolic.
+
+- [zk-kyc](https://github.com/zkFold/zk-kyc) is a set of backend applications for proving and verifying clients' KYC information.
+
+- [zkpass-cardano](https://github.com/zkFold/zkpass-cardano) is an integration of the zkPass oracle with the Cardano blockchain.
