@@ -2,16 +2,15 @@
 
 ## About
 
-zkFold is a company developing open-source solutions for scaling distributed ledgers. Our key products include:
+zkFold is a company developing open-source solutions for blockchain scaling and interoperability. Our key products include:
 - **zkFold Symbolic**: A framework for building zero-knowledge applications;
-- **zkFold Rollup**: A layer-2 scaling solution that utilizes the underlying L1 blockchain as data availability layer;
-- **zkFold DLT**: A layer-2 sidechain solution that has its own consensus mechanism and data availability layer.
+- **zkFold Rollup**: A layer-2 scaling solution based on zero-knowledge proofs that utilize the underlying L1 blockchain as a data availability layer.
 
 ## Repositories
 
 Description of public repositories maintained by zkFold.
 
-- [zkFold-base](https://github.com/zkFold/zkfold-base) contains the zkFold Symbolic framework that is at the core of zkFold products.
+- [zkFold-base](https://github.com/zkFold/zkfold-base) contains the zkFold Symbolic framework that is at the core of zkFold products. Sub-packages contain Symbolic code for a layer-2 ledger, Cardano type library, ZK-Dapps, and various examples.
 
 - [zkFold-cardano](https://github.com/zkFold/zkfold-cardano) is an integration of zkFold Symbolic smart contracts with the Cardano blockchain.
 
@@ -21,6 +20,6 @@ Description of public repositories maintained by zkFold.
 
 - [zkFold-prover-api](https://github.com/zkFold/zkfold-prover-api) is an API server for the zkFold provers.
 
-- [p2p-onramp](https://github.com/zkFold/p2p-onramp) is a peer-to-peer fiat-to-crypto onramp application on Cardano that is built using zkFold Symbolic.
+- [smart-contract-wallet](https://github.com/zkFold/smart-contract-wallet) contains an implementation of a Cardano wallet backend based on ZK smart contracts.
 
-- [user-docs](https://github.com/zkFold/user-docs) contains user documentation for zkFold products.
+- [p2p-onramp](https://github.com/zkFold/p2p-onramp) is a peer-to-peer fiat-to-crypto onramp application on Cardano that is built using zkFold Symbolic.
