@@ -1,8 +1,8 @@
-# zkFold: Scalable Distributed Ledger Technology
+# zkFold: Blockchain Scaling and Interoperability Solutions
 
 ## About
 
-zkFold is a company developing open-source solutions for scaling blockchains. Our key products include:
+zkFold is a company developing open-source solutions for blockchain scaling and interoperability. Our key products include:
 - **Symbolic**: A Haskell framework for building zero-knowledge applications;
 - **Smart Wallet Backend**: A programmable smart contract wallet with extensible feature set, including Web2 login, batched transactions, and more;
 - **zkFold**: A zero-knowledge rollup technology with the minimal bits per transaction data footprint.
