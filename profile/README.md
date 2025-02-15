@@ -1,4 +1,4 @@
-# zkFold: Blockchain Scaling and Interoperability Solutions
+# zkFold: Scalable Distributed Ledger Technology
 
 ## About
 
