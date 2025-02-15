@@ -17,4 +17,6 @@ Selected public repositories:
 
 - [zkFold-cardano](https://github.com/zkFold/zkfold-cardano) is a Cardano blockchain integration for ZK-powered smart contracts developed using Symbolic.
 
-- [user-docs](https://github.com/zkFold/user-docs): user documentation for the zkFold products.
+## Documentation
+
+User documentation for all our products is available at [docs.zkfold.io](https://docs.zkfold.io).
