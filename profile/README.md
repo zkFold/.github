@@ -11,7 +11,7 @@ zkFold is a company developing open-source solutions for blockchain scaling and 
 
 Selected public repositories:
 
-- [zkFold-base](https://github.com/zkFold/zkfold-base) contains the Symbolic framework.
+- [symbolic](https://github.com/zkFold/symbolic) contains the Symbolic framework.
 
 - [zkFold-prover](https://github.com/zkFold/zkfold-prover) is an implementation of optimized provers for zero-knowledge protocols used in the zkFold products.
 
