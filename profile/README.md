@@ -4,18 +4,26 @@
 
 zkFold is a company developing open-source solutions for blockchain scaling and interoperability. Our key products include:
 - **Symbolic**: A Haskell framework for building zero-knowledge applications;
-- **Smart Wallet Backend**: A programmable smart contract wallet with extensible feature set, including Web2 login, batched transactions, and more;
+- **Smart Wallet**: A programmable smart contract wallet with an extensible feature set, including Web2 login, sponsored transactions, babel fees, and more;
 - **zkFold**: A zero-knowledge rollup technology with the minimal bits per transaction data footprint.
 
-## Repositories
+## Selected public repositories
 
-Selected public repositories:
+Symbolic framework and infrastructure components:
 
 - [symbolic](https://github.com/zkFold/symbolic) contains the Symbolic framework.
 
-- [zkFold-prover](https://github.com/zkFold/zkfold-prover) is an implementation of optimized provers for zero-knowledge protocols used in the zkFold products.
-
 - [zkFold-cardano](https://github.com/zkFold/zkfold-cardano) is a Cardano blockchain integration for ZK-powered smart contracts developed using Symbolic.
+
+- [symbolic-prover-api](https://github.com/zkFold/symbolic-prover-api) is an implementation of optimized provers for zero-knowledge protocols used in the zkFold products.
+
+Smart Wallet:
+
+- [smart-wallet-api](https://github.com/zkFold/smart-wallet-api) is a TypeScript SDK for Smart Wallet integration.
+
+- [smart-wallet-prover](https://github.com/zkFold/smart-wallet-prover) is a prover server for Smart Wallet integration.
+
+- [smart-wallet-ui](https://github.com/zkFold/smart-wallet-ui) is a demo interface for Smart Wallet.
 
 ## Documentation
 
