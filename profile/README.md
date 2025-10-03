@@ -9,7 +9,7 @@ zkFold is a company developing open-source solutions for blockchain scaling and 
 
 ## Selected public repositories
 
-Symbolic framework and infrastructure components:
+_Symbolic framework_ and infrastructure components:
 
 - [symbolic](https://github.com/zkFold/symbolic) contains the Symbolic framework.
 
@@ -17,7 +17,7 @@ Symbolic framework and infrastructure components:
 
 - [symbolic-prover-api](https://github.com/zkFold/symbolic-prover-api) is an implementation of optimized provers for zero-knowledge protocols used in the zkFold products.
 
-Smart Wallet:
+_Smart Wallet_:
 
 - [smart-wallet-api](https://github.com/zkFold/smart-wallet-api) is a TypeScript SDK for Smart Wallet integration.
 
