@@ -1,1 +1,1 @@
-# zkFold: Scalable Distributed Ledger Technology
+# zkFold: Blockchain infrastructure solutions
