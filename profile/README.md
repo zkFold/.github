@@ -1,30 +1,18 @@
-# zkFold: Blockchain infrastructure solutions
+# zkFold: blockchain infrastructure solutions
 
 ## About
 
-zkFold is a company developing open-source solutions for blockchain scaling and interoperability. Our key products include:
-- **Symbolic**: A Haskell framework for building zero-knowledge applications;
-- **Smart Wallet**: A programmable smart contract wallet with an extensible feature set, including Web2 login, sponsored transactions, babel fees, and more;
-- **zkFold**: A zero-knowledge rollup technology with the minimal bits per transaction data footprint.
-
-## Selected public repositories
-
-_Symbolic framework_ and infrastructure components:
-
-- [symbolic](https://github.com/zkFold/symbolic) contains the Symbolic framework.
-
-- [zkFold-cardano](https://github.com/zkFold/zkfold-cardano) is a Cardano blockchain integration for ZK-powered smart contracts developed using Symbolic.
-
-- [symbolic-prover-api](https://github.com/zkFold/symbolic-prover-api) is an implementation of optimized provers for zero-knowledge protocols used in the zkFold products.
-
-_Smart Wallet_:
-
-- [smart-wallet-api](https://github.com/zkFold/smart-wallet-api) is a TypeScript SDK for Smart Wallet integration.
-
-- [smart-wallet-prover](https://github.com/zkFold/smart-wallet-prover) is a prover server for Smart Wallet integration.
-
-- [smart-wallet-ui](https://github.com/zkFold/smart-wallet-ui) is a demo interface for Smart Wallet.
+zkFold is a blockchain and Web3 consulting company with deep expertise in protocol design, smart contracts, consensus, cryptography, formal methods, and AI integrations. The projects we engineered include
+- L1 and L2 blockchain protocols
+- Bridges and cross-chain swaps
+- Smart contracts
+- ZK applications
+- Wallet SDKs
 
 ## Documentation
 
-User documentation for all our products is available at [docs.zkfold.io](https://docs.zkfold.io).
+Developer documentation for integrations of our products is available at [docs.zkfold.io](https://docs.zkfold.io).
+
+## Contact
+
+To contact our team, please write a message to [info@zkfold.io](mailto:info@zkfold.io) or use the contact form at [zkfold.io/#contact](https://zkfold.io/#contact).
